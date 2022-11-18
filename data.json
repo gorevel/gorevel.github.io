@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7193187, -73.9881965] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 8,
+      "bolts": 2,
+      "speed": "ultrafast",
+      "speed_text": "6 - 50kW, 2 - 150kW",
+      "fee": "Pay to park",
+      "open": "24/7",
+      "address": "107 Essex St, New York, NY 10002" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7456853, -73.942549] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 6,
+      "bolts": 2,
+      "speed": "ultrafast",
+      "speed_text": "4 - 50kW, 2 - 150kW",
+      "fee": "Pay to park",
+      "open": "",
+      "address": "45 Ct Square W, Queens, NY 11101" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7929771, -73.9244122] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 3,
+      "bolts": 1,
+      "speed": "fast",
+      "speed_text": "62kW",
+      "fee": false,
+      "open": "24/7",
+      "address": "10 Central Road, New York, NY 10035" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7572609, -73.8356116] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 3,
+      "bolts": 3,
+      "speed": "ultrafast",
+      "speed_text": "150kW",
+      "fee": "Pay to park",
+      "open": "24/7",
+      "address": "40-24 College Point Blvd, Queens, NY 11354" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7344834, -73.8696793] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 3,
+      "bolts": 3,
+      "speed": "ultrafast",
+      "speed_text": "150kW",
+      "fee": "Pay to park",
+      "open": "6am - 8pm",
+      "address": "90-15 Queens Blvd, Queens, NY 11373" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.583115700000036, -74.0750826] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 2,
+      "speed": "fast",
+      "speed_text": "62kW",
+      "fee": false,
+      "open": "24/7",
+      "address": "625 Father Capodanno Blvd, Staten Island, NY 10305" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.57149000000001, -74.0931627] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 2,
+      "speed": "fast",
+      "speed_text": "62kW",
+      "fee": false,
+      "open": "24/7",
+      "address": "920 Father Capodanno Blvd, Staten Island, NY" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7534565, -73.856472] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 1,
+      "speed": "fast",
+      "speed_text": "62kW",
+      "fee": false,
+      "open": "24/7",
+      "address": "109-5 Marina Rd, Queens, NY 11368" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.74453950000001, -73.92649520000002] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 2,
+      "speed": "fast",
+      "speed_text": "62kW",
+      "fee": false,
+      "open": "24/7",
+      "tesla_plug": true,
+      "address": "38-15 Queens Blvd, Long Island City, NY 11101" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.744868000000025, -73.7771003] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 1,
+      "speed": "fast",
+      "speed_text": "50kW",
+      "fee": false,
+      "open": "24/7 - Currently under repair",
+      "tesla_plug": true,
+      "address": "58-20 Francis Lewis Blvd, Hollis Hills, NY 11364" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.656464300000025, -73.9775272] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 1,
+      "speed": "fast",
+      "speed_text": "50kW",
+      "fee": false,
+      "open": "24/7",
+      "address": "589 Prospect Ave, Brooklyn, NY 11215" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.656087,-73.8102797] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 10,
+      "speed": "ultrafast",
+      "speed_text": "150kW",
+      "fee": false,
+      "open": "24/7",
+      "address": "130th Place Between E &, W Hangar Rd, Queens, NY 11430" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7136126,-73.9352661] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 1,
+      "speed": "fast",
+      "speed_text": "60kW",
+      "fee": false,
+      "open": "Mon - Fri, 8am - 5pm",
+      "address": "1074 Grand St, Brooklyn, NY 11211" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7116122,-73.8944404] },
+      "properties": { 
+      "station_type" : "other",
+      "stalls": 3,
+      "speed": "fast",
+      "speed_text": "62kW",
+      "fee": false,
+      "open": "",
+      "address": "6626 Metropolitan Ave, Middle Village, NY 11379" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.6993175, -73.9499637] },
+      "properties": { 
+      "station_type" : "revel-now",
+      "stalls": 25,
+      "speed": "faster",
+      "speed_text": "75kW",
+      "fee": false,
+      "open": "24/7",
+      "tesla_plug": true,
+      "address": "467 Marcy Ave, Brooklyn, NY 11206" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.8053306, -73.9116936] },
+      "properties": { 
+      "station_type" : "revel-soon",
+      "stalls": 30,
+      "speed": "ultrafast",
+      "speed_text": "150kw",
+      "fee": false,
+      "open": "24/7",
+      "tesla_plug": true,
+      "address": "799 E. 140th St, Bronx, NY 10454" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7095296,-73.960351] },
+      "properties": { 
+      "station_type" : "revel-soon",
+      "stalls": 16,
+      "speed": "ultrafast",
+      "speed_text": "150kW",
+      "fee": false,
+      "open": "24/7",
+      "tesla_plug": true,
+      "address": "275 S. 5th Street, Brooklyn, NY 11211" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7307273, -73.9215914] },
+      "properties": { 
+      "station_type" : "revel-soon",
+      "stalls": 60,
+      "speed": "ultrafast",
+      "speed_text": "150kW",
+      "fee": false,
+      "open": "24/7",
+      "tesla_plug": true,
+      "address": "54-12 48th Street, Maspeth, NY 11378" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7100471,-73.9884552] },
+      "properties": { 
+      "station_type" : "revel-soon",
+      "stalls": 10,
+      "speed": "ultrafast",
+      "speed_text": "150kW",
+      "fee": false,
+      "open": "24/7",
+      "tesla_plug": true,
+      "address": "299 South St, New York, NY 10002" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.6701064,-74.0029097] },
+      "properties": { 
+      "station_type" : "revel-soon",
+      "stalls": 20,
+      "speed": "ultrafast",
+      "speed_text": "150kW",
+      "fee": false,
+      "open": "24/7",
+      "tesla_plug": true,
+      "address": "Red Hook Recharge Zone, Brooklyn, NY 11231" 
+      }
+    }
+  ]
+}
