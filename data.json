@@ -12,7 +12,7 @@
       "speed_text": "6 - 50kW, 2 - 150kW",
       "fee": "Pay to park",
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "107 Essex St, New York, NY 10002" 
       }
     },
@@ -27,7 +27,7 @@
       "speed_text": "4 - 50kW, 2 - 150kW",
       "fee": "Pay to park",
       "open": "",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "45 Ct Square W, Queens, NY 11101" 
       }
     },
@@ -42,7 +42,7 @@
       "speed_text": "62kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "10 Central Road, New York, NY 10035" 
       }
     },
@@ -57,7 +57,7 @@
       "speed_text": "150kW",
       "fee": "Pay to park",
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "40-24 College Point Blvd, Queens, NY 11354" 
       }
     },
@@ -72,7 +72,7 @@
       "speed_text": "150kW",
       "fee": "Pay to park",
       "open": "6am - 8pm",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "90-15 Queens Blvd, Queens, NY 11373" 
       }
     },
@@ -86,7 +86,7 @@
       "speed_text": "62kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "625 Father Capodanno Blvd, Staten Island, NY 10305" 
       }
     },
@@ -100,7 +100,7 @@
       "speed_text": "62kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "920 Father Capodanno Blvd, Staten Island, NY" 
       }
     },
@@ -114,7 +114,7 @@
       "speed_text": "62kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "109-5 Marina Rd, Queens, NY 11368" 
       }
     },
@@ -128,7 +128,7 @@
       "speed_text": "62kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "tesla_plug": true,
       "address": "38-15 Queens Blvd, Long Island City, NY 11101" 
       }
@@ -143,7 +143,7 @@
       "speed_text": "50kW",
       "fee": false,
       "open": "24/7 - Currently under repair",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "tesla_plug": true,
       "address": "58-20 Francis Lewis Blvd, Hollis Hills, NY 11364" 
       }
@@ -158,7 +158,7 @@
       "speed_text": "50kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "589 Prospect Ave, Brooklyn, NY 11215" 
       }
     },
@@ -172,7 +172,7 @@
       "speed_text": "150kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "130th Place Between E &, W Hangar Rd, Queens, NY 11430" 
       }
     },
@@ -186,7 +186,7 @@
       "speed_text": "60kW",
       "fee": false,
       "open": "Mon - Fri, 8am - 5pm",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "1074 Grand St, Brooklyn, NY 11211" 
       }
     },
@@ -200,7 +200,7 @@
       "speed_text": "62kW",
       "fee": false,
       "open": "",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "address": "6626 Metropolitan Ave, Middle Village, NY 11379" 
       }
     },
@@ -214,7 +214,7 @@
       "speed_text": "75kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "tesla_plug": true,
       "address": "467 Marcy Ave, Brooklyn, NY 11206" 
       }
@@ -229,7 +229,7 @@
       "speed_text": "150kw",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "tesla_plug": true,
       "address": "799 E. 140th St, Bronx, NY 10454" 
       }
@@ -258,7 +258,7 @@
       "speed_text": "150kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "tesla_plug": true,
       "address": "54-12 48th Street, Maspeth, NY 11378" 
       }
@@ -273,7 +273,7 @@
       "speed_text": "150kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "tesla_plug": true,
       "address": "299 South St, New York, NY 10002" 
       }
@@ -288,7 +288,7 @@
       "speed_text": "150kW",
       "fee": false,
       "open": "24/7",
-      "chademo_plug" true,
+      "chademo_plug": true,
       "tesla_plug": true,
       "address": "Red Hook Recharge Zone, Brooklyn, NY 11231" 
       }
