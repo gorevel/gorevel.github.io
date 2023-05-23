@@ -223,7 +223,7 @@
       "geometry" : { "type": "Point", "coordinates": [40.7095296,-73.960351] },
       "properties": { 
       "station_type" : "revel-soon",
-      "stalls": 16,
+      "stalls": 15,
       "speed": "ultrafast",
       "speed_text": "150kW",
       "fee": false,
