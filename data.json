@@ -18,6 +18,21 @@
     },
     {
       "type": "Feature",
+      "geometry" : { "type": "Point", "coordinates": [40.7489521,-73.9413254] },
+      "properties": { 
+      "station_type" : "revel-now",
+      "stalls": 14,
+      "speed": "fast",
+      "speed_text": "150kW",
+      "fee": false,
+      "open": "24/7",
+      "chademo_plug": false,
+      "tesla_plug": true,
+      "address": "28-17 42nd Road, Queens, NY 11101" 
+      }
+    },
+    {
+      "type": "Feature",
       "geometry" : { "type": "Point", "coordinates": [40.7456853, -73.942549] },
       "properties": { 
       "station_type" : "other",
